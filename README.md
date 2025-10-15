@@ -56,5 +56,7 @@ La **exactitud (accuracy)** se calculó mediante el método `.score()`, lo que p
 
 <img width="459" height="111" alt="image" src="https://github.com/user-attachments/assets/35ebebfc-f34e-4580-be9b-1e2b56fae1dc" />
 
+El modelo alcanzó aproximadamente un 60% de exactitud, lo que demuestra una capacidad moderada para distinguir entre declaraciones verdaderas y falsas.
+Este resultado refleja que, si bien el modelo logra identificar ciertos patrones en los datos, aún existe margen de mejora mediante el ajuste de parámetros o el uso de algoritmos más complejos.
 
 
